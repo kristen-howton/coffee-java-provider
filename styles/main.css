@@ -1,0 +1,17 @@
+.EmployeeInformationDisplay {
+    border-style: solid;
+    padding: 2px;
+    margin: 2px;
+}
+
+.EquipmentInformationDisplay {
+    border-style: dotted;
+    padding: 2px;
+    margin: 2px;
+}
+
+.ProductInformationDisplay {
+    border-style: dashed;
+    padding: 2px;
+    margin: 2px;
+}
